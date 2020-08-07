@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "writearray"
-permalink: /writearray/
+permalink: /tools/
 ---
 
 ## writearray
