@@ -22,4 +22,4 @@ SMiLe utilizes a non-optimized subset of the CLAPACK library. You can find a ful
 
 ### Tools:
 
-<a href="writearray.md">writearray</a>
+<a href="/writearray/writearray.md">writearray</a>
