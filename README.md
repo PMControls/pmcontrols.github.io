@@ -19,3 +19,7 @@ pbPlots is used to generate aggregate plots. pbPlots provides an extensive range
 ### CLAPACK
 
 SMiLe utilizes a non-optimized subset of the CLAPACK library. You can find a full version of CLAPACK at www.netlib.org/clapack
+
+### Tools:
+
+writearray.md <a href="writearray.md">writearray</a>
