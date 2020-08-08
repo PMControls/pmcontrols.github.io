@@ -1,6 +1,3 @@
----
-layout:default
----
 
 ## SMiLe (SQLite extension collection)
 
