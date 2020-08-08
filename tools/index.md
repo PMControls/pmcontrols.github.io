@@ -1,8 +1,5 @@
 ---
-layout: default
-title: "writearray"
-permalink: /tools/
-theme: jekyll-theme-architect
+layout:default
 ---
 
 ## writearray
