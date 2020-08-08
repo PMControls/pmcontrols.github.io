@@ -2,6 +2,7 @@
 layout: page
 title: "writearray"
 permalink: /tools/
+theme: jekyll-theme-architect
 ---
 
 ## writearray
