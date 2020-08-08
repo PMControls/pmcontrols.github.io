@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+layout: page
+title: "writearray"
+permalink: /tools/
