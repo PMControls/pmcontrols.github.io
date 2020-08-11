@@ -23,7 +23,7 @@ SMiLe utilizes a non-optimized subset of the CLAPACK library. You can find a ful
 
 ### Tools:
 
-<a href="tools/writearray">write_array</a>
+<a href="tools/write_array">write_array</a>
 
 <a href="tools/matrix_multiply">matrix_multiply</a>
 
