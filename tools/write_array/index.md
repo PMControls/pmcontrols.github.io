@@ -25,3 +25,5 @@ The pointer is declared prior to calling the function, and should be allocated p
 ### Usability
 
 writearray is usable on all selectable real number data.
+
+<a href="../../">home</a>

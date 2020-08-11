@@ -24,3 +24,5 @@ The variables are defined as follows:
 ### Usability
 
 matrix_scale is usable on all selectable real number data.
+
+<a href="../../">home</a>
