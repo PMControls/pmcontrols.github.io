@@ -1,6 +1,6 @@
 
 
-## writearray
+## write_array
 
 writearray is a reverse implementation of carray, from the SQLite loadable extensions library. writearray is useful for writing to c arrays, much like carray is useful for reading c arrays.
 
