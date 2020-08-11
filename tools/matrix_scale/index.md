@@ -21,8 +21,6 @@ The variables are defined as follows:
 - col1name is a column of type 'real', as is col2name and all subsequent columns.
 - tablename is the name of the table.
 
-The pointer is declared prior to calling the function, and should be allocated prior to calling the function and destroyed by the calling function as well.
-
 ### Usability
 
 matrix_scale is usable on all selectable real number data.
