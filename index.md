@@ -5,6 +5,7 @@ SMiLe is a set of lightweight data analysis tools intended for SQLite. SMiLe too
 <<<<<<< HEAD
 
 The github SMiLe library is new, and includes the operations located in the 'tools' section, along with supporting files. Feel free to drop comments or criticisms of the work so far. Thanks for stopping by. 
+=======
 
 
 ### Goals
