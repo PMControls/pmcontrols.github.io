@@ -1,5 +1,6 @@
 
 
+## write_array
 
 writearray is a reverse implementation of carray, from the SQLite loadable extensions library. writearray is useful for writing to c arrays, much like carray is useful for reading c arrays.
 
@@ -25,3 +26,4 @@ The pointer is declared prior to calling the function, and should be allocated p
 
 writearray is usable on all selectable real number data.
 
+<a href="../../">home</a>
