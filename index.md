@@ -2,10 +2,9 @@
 ## SMiLe (SQLite extension collection)
 
 SMiLe is a set of lightweight data analysis tools intended for SQLite. SMiLe tools can be compiled with SQLite source code, or loaded at runtime using SQLite's .load syntax. The tools are written in c, and often include Python scripts to provide example utilizations of the tools. In general, a full-featured data analysis toolset such as those provided by R and Python will be a preferrable option. For those cases where you just need a self-contained, portable system capable of self-analysis, you may find SMiLe to be suitable for your needs.
-<<<<<<< HEAD
 
 The github SMiLe library is new, and includes the operations located in the 'tools' section, along with supporting files. Feel free to drop comments or criticisms of the work so far. Thanks for stopping by. 
-=======
+
 
 
 ### Goals
